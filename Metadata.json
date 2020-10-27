@@ -1,0 +1,20 @@
+{
+    "Author": "Peter Selch Dahl - Azure MVP",
+    "ContentSize": 3930,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/adjust--scale-the-size-of-an-azure-virtual-machine-while-running-or-shutdown/master/Adjust_Size_of_Azure_VM.ps1",
+    "DownloadCount": 2615,
+    "Id": "Adjust-Scale-the-size-of-c3caee83",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 141,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-12-30T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This Azure Automation script can automatic adjust the size of the Azure virtual machines while the server is either running or shutdown. This operation could be used to save money when you aren\u2019t using the servers so heavily perhaps during the weekend or during the night.",
+    "Title": "Adjust / Scale the size of an Azure Virtual Machine while running or shutdown",
+    "UpdatedDate": "2014-12-30T00:00:00",
+    "Url": "https://github.com/azureautomation/adjust--scale-the-size-of-an-azure-virtual-machine-while-running-or-shutdown",
+    "UserTags": "Windows Azure Virtual Machines, Azure Automation, VM Lifecycle Management"
+}
